@@ -9,6 +9,7 @@ This repository contains information on previous geohackweek projects.
 | [Glacier mass balance](glaciermassbal) |  [#stereohack](https://geohackweek2016.slack.com/messages/stereohack/) |
 | [Iceflow](iceflow) | [#iceflow](https://geohackweek2016.slack.com/messages/iceflow/) |
 | [urban modeling](https://github.com/xcitech/urbanhack2016) | [#urbanhack](https://geohackweek2016.slack.com/messages/urbanhack/) | 
+| [Interactive Visualization](https://github.com/geohackweek/vizhack/wiki) | #vizhack] |
 
 # Project guidelines
 
