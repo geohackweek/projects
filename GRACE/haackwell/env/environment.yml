@@ -1,0 +1,16 @@
+name: haackwellenv
+channels:
+- conda-forge
+dependencies:
+- python=3.6
+- conda
+- conda:
+    - xarray
+    - plotly
+    - matplotlib
+    - numpy
+    - pandas
+    - geopandas
+    - basemap
+    - nltk
+    - pydap
