@@ -4,8 +4,8 @@ This repository contains information on previous geohackweek projects.
 
 | Project Name | slack channel |
 |:------|:-----------|
-| [groundwater hydrology and GRACE](GRACE) | [#ohwell](https://geohackweek2016.slack.com/messages/ohwell/) | 
-| [landslides](landslides)  | [#landslides](https://geohackweek2016.slack.com/messages/landslides/) |
+| [geo-spatial-temporal analysis using open source software](https://github.com/geohackweek/gwh2018_landlab) | [\#landlab](https://geohackweek2018.slack.com/messages/landlab) | 
+| [Web portal for carbon dioxide in global inland waters](https://github.com/geohackweek/ghw2018_web_portal_inlandwater_co2)  | [\#co2web](https://geohackweek2018.slack.com/messages/co2web/) |
 | [Glacier mass balance](glaciermassbal) |  [#stereohack](https://geohackweek2016.slack.com/messages/stereohack/) |
 | [Iceflow](iceflow) | [#iceflow](https://geohackweek2016.slack.com/messages/iceflow/) |
 | [urban modeling](https://github.com/xcitech/urbanhack2016) | [#urbanhack](https://geohackweek2016.slack.com/messages/urbanhack/) | 
