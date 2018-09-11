@@ -12,6 +12,7 @@ This repository contains information on geohackweek projects.
 | [geoaffinity](https://github.com/geohackweek/ghw2018_geoaffinity) | [\#geoaffinity](https://geohackweek2018.slack.com/messages/tremorvis) |
 | [Coastal Edges](https://github.com/geohackweek/coastaledges) | [\#coastaledges](https://geohackweek2018.slack.com/messages/coastaledges) |
 | Urbanopia | [\#urbanopia](https://geohackweek2018.slack.com/messages/urbanopia) |
+| [glacierhack](https://github.com/geohackweek/glacierhack_2018) | [\#glacierhack](https://geohackweek2018.slack.com/messages/urbanopia) |
 
 # Project guidelines
 
