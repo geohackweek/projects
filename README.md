@@ -1,15 +1,17 @@
 # Geohackweek projects
 
-This repository contains information on previous geohackweek projects. 
+This repository contains information on geohackweek projects. 
 
 | Project Name | slack channel |
 |:------|:-----------|
 | [geo-spatial-temporal analysis using open source software](https://github.com/geohackweek/gwh2018_landlab) | [\#landlab](https://geohackweek2018.slack.com/messages/landlab) | 
 | [Web portal for carbon dioxide in global inland waters](https://github.com/geohackweek/ghw2018_web_portal_inlandwater_co2)  | [\#co2web](https://geohackweek2018.slack.com/messages/co2web/) |
-| [Glacier mass balance](glaciermassbal) |  [#stereohack](https://geohackweek2016.slack.com/messages/stereohack/) |
-| [Iceflow](iceflow) | [#iceflow](https://geohackweek2016.slack.com/messages/iceflow/) |
-| [urban modeling](https://github.com/xcitech/urbanhack2016) | [#urbanhack](https://geohackweek2016.slack.com/messages/urbanhack/) | 
-| [Interactive Visualization](https://github.com/geohackweek/vizhack/wiki) | #vizhack |
+| [Topographic influences on snow melt in a warming world](https://github.com/geohackweek/ghw2018_snowmelt) |  [\#snowmelt](https://geohackweek2018.slack.com/messages/snowmelt/) |
+| [Popfill](https://github.com/geohackweek/ghw2018_popfill) | [\#popfill](https://geohackweek2018.slack.com/messages/popfill/) |
+| [Visualization of seismic data](https://github.com/geohackweek/ghw2018_tremorviz) | [\#tremorvis](https://geohackweek2018.slack.com/messages/tremorvis/) | 
+| [geoaffinity](https://github.com/geohackweek/ghw2018_geoaffinity) | [\#geoaffinity](https://geohackweek2018.slack.com/messages/tremorvis) |
+| [Coastal Edges](https://github.com/geohackweek/coastaledges) | [\#coastaledges](https://geohackweek2018.slack.com/messages/coastaledges) |
+| Urbanopia | [\#urbanopia](https://geohackweek2018.slack.com/messages/urbanopia) |
 
 # Project guidelines
 
