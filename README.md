@@ -8,7 +8,7 @@ This repository contains information on geohackweek projects.
 | [Web portal for carbon dioxide in global inland waters](https://github.com/geohackweek/ghw2018_web_portal_inlandwater_co2)  | [\#co2web](https://geohackweek2018.slack.com/messages/co2web/) |
 | [Topographic influences on snow melt in a warming world](https://github.com/geohackweek/ghw2018_snowmelt) |  [\#snowmelt](https://geohackweek2018.slack.com/messages/snowmelt/) |
 | [Popfill](https://github.com/geohackweek/ghw2018_popfill) | [\#popfill](https://geohackweek2018.slack.com/messages/popfill/) |
-| [Visualization of seismic data](https://github.com/geohackweek/ghw2018_tremorviz) | [\#tremorvis](https://geohackweek2018.slack.com/messages/tremorvis/) | 
+| [TremorViz: visualization of seismic data](https://github.com/geohackweek/ghw2018_tremorviz) | [\#tremorviz](https://geohackweek2018.slack.com/messages/tremorviz/) | 
 | [geoaffinity](https://github.com/geohackweek/ghw2018_geoaffinity) | [\#geoaffinity](https://geohackweek2018.slack.com/messages/tremorvis) |
 | [Coastal Edges](https://github.com/geohackweek/coastaledges) | [\#coastaledges](https://geohackweek2018.slack.com/messages/coastaledges) |
 | Urbanopia | [\#urbanopia](https://geohackweek2018.slack.com/messages/urbanopia) |
